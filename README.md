@@ -50,6 +50,10 @@ Analisar o comportamento de cancelamento de serviço (`churn`) de clientes de um
 - **PCA** para redução de dimensionalidade e visualização
 - **KMeans** com validação por Elbow Method e Silhouette Score
 
+### 6. Storytelling com Dados.
+
+### 7. Mini Case Final
+
 ---
 
 ## 📈 Principais Resultados
